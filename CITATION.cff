@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "qlass-experiment"
+repository-code: "https://github.com/nathanshammah/qlass-experiment"
+authors:
+  - family-names: Adriano
+    given-names: Giovanni
+  - family-names: Shammah
+    given-names: Nathan
+  - family-names: Senjean
+    given-names: Bruno
+preferred-citation:
+  type: article
+  title: "Quantum Simulation of Electronic Structure using Quantum Density Functional Theory on a Programmable Integrated Photonic Circuit"
+  authors:
+    - family-names: Adriano
+      given-names: Giovanni
+    - family-names: Rajamani
+      given-names: Akilan
+    - family-names: Hoch
+      given-names: Francesco
+    - family-names: Labib
+      given-names: Farrokh
+    - family-names: Zaouri
+      given-names: Nadja Z.
+    - family-names: Caruccio
+      given-names: Eugenio
+    - family-names: Carvacho
+      given-names: Gonzalo
+    - family-names: Spagnolo
+      given-names: Nicolò
+    - family-names: Albiero
+      given-names: Riccardo
+    - family-names: Corrielli
+      given-names: Giacomo
+    - family-names: Ceccarelli
+      given-names: Francesco
+    - family-names: Filhol
+      given-names: Jean-Sebastien
+    - family-names: Osellame
+      given-names: Roberto
+    - family-names: Giordani
+      given-names: Taira
+    - family-names: Sciarrino
+      given-names: Fabio
+    - family-names: Shammah
+      given-names: Nathan
+    - family-names: Senjean
+      given-names: Bruno
+  year: 2026
+  journal: "arXiv"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.04694"
+      description: "arXiv eprint (quant-ph)"
+  url: "https://arxiv.org/abs/2611.04694"
